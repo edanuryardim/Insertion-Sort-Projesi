@@ -1,7 +1,7 @@
 # Insertion-Sort-Projesi
 Insertion Sort Projesi 
 
-[22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamaları:
+**[22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamaları:**
 
 1) [16, 22, 27, 2, 18, 6]
 2) [2, 16, 22, 27, 18, 6]
@@ -10,11 +10,11 @@ Insertion Sort Projesi
 
 
 
-Big-O gösterimi:
+**Big-O gösterimi:**
 n(n+1)/2 O(n^2)
 
 
-Time Complexity:
+**Time Complexity:**
 1)Average case: Aradığımız sayının ortada olması.
 2)Worst case: Aradığımız sayının sonda olması.
 3)Best case: Aradığımız sayının dizinin en başında olması.
@@ -22,7 +22,7 @@ Time Complexity:
 Dizi sıralandıktan sonra 18 sayısı average case kapsaına girer.
 
 
-[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:
+**[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:**
 
 1) [3, 7, 5, 8, 2, 9, 4, 15, 6]
 2) [3, 5, 7, 8, 2, 9, 4, 15, 6]
